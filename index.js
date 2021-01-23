@@ -28,5 +28,5 @@ case "4":
           console.log("\nConverted Value- "+hrToSec(input));
           break;
 default:
-    console.log("\nNot a Valid Option.Please Select between 1 to 4 only!")
+    console.log("\nNot a Valid Option. Please Select between 1 to 4 only!")
 } 
